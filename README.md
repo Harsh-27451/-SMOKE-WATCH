@@ -27,7 +27,7 @@ The MQ2 sensor continuously monitors air quality. When gas concentration exceeds
 ## Repository Contents
 
 - `code/smokewatch.ino`: Arduino source code for the device.
-- `images/schematic.png`: Circuit schematic and hardware layout.
+- `images/schematic.png`: Circuit schematic and hardware layout. https://github.com/Harsh-27451/-SMOKE-WATCH/blob/main/SMOKE%20WATCH%201.jpg
 - `docs/project_report.pdf`: Detailed documentation of the project.
 - `.gitignore`: Standard ignore file for Arduino projects.
 
